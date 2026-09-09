@@ -21,6 +21,4 @@ An end-to-end NLP pipeline that classifies news text as **fake** or **real**. Bu
 ## Getting started
 
     pip install -r requirements.txt
-    streamlit run app/streamlit_app.py
-
-placeholder``
+    streamlit run app/streamlit_app.p
